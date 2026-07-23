@@ -58,7 +58,7 @@ You can only modify/remove plugins you authored.
 JollyRipper fetches plugins from:
 
 ```
-https://raw.githubusercontent.com/MatesMediaDev/JollyRipper-PluginsDirectory/main/plugins/index.json
+https://raw.githubusercontent.com/Jolly-Ripper/Plugins/main/plugins/index.json
 ```
 
 ## Plugin Development
