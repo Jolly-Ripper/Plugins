@@ -1,0 +1,11 @@
+{
+  "id": "excaliburau-link-sidebar",
+  "name": "Link Sidebar",
+  "version": "1.0.0",
+  "description": "Shows the Link (paste URL) entry on the sidebar. Enable this plugin to restore the Link workspace hidden by default in the base app.",
+  "author": "ExcaliburAU",
+  "repository": "https://github.com/Jolly-Ripper/Plugins",
+  "homepage": "https://github.com/Jolly-Ripper/Plugins/tree/main/sources/excaliburau-link-sidebar",
+  "downloadUrl": "https://raw.githubusercontent.com/Jolly-Ripper/Plugins/main/sources/excaliburau-link-sidebar/index.js",
+  "tags": ["ui", "link", "sidebar"]
+}

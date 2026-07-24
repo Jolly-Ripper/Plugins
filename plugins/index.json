@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-24T11:25:23.656Z",
+  "updatedAt": "2026-07-24T14:10:00.000Z",
   "plugins": [
+    "excaliburau-link-sidebar",
     "excaliburau-rip-log",
     "excaliburau-webhook-notify",
     "litruv-test"
