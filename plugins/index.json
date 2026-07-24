@@ -1,7 +1,10 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-18T18:03:23.749Z",
+  "updatedAt": "2026-07-24T02:43:12.019Z",
   "plugins": [
+    "excaliburau-musicbrainz-lookup",
+    "excaliburau-rip-log",
+    "excaliburau-webhook-notify",
     "litruv-test"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "excaliburau-rip-log",
+  "name": "Rip Log",
+  "version": "1.0.0",
+  "description": "Appends one JSON line per finished rip to a local .jsonl file. Default path is inside the plugin folder; override with logPath in settings.json.",
+  "author": "ExcaliburAU",
+  "repository": "https://github.com/Jolly-Ripper/Plugins",
+  "homepage": "https://github.com/Jolly-Ripper/Plugins/tree/main/sources/excaliburau-rip-log",
+  "downloadUrl": "https://raw.githubusercontent.com/Jolly-Ripper/Plugins/main/sources/excaliburau-rip-log/index.js",
+  "tags": ["logging", "history", "utility"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "excaliburau-musicbrainz-lookup",
+  "name": "MusicBrainz Lookup",
+  "version": "1.0.0",
+  "description": "After each rip, looks up the release on MusicBrainz and opens the search page. Optional: set autoOpen=false in the plugin settings.json.",
+  "author": "ExcaliburAU",
+  "repository": "https://github.com/Jolly-Ripper/Plugins",
+  "homepage": "https://github.com/Jolly-Ripper/Plugins/tree/main/sources/excaliburau-musicbrainz-lookup",
+  "downloadUrl": "https://raw.githubusercontent.com/Jolly-Ripper/Plugins/main/sources/excaliburau-musicbrainz-lookup/index.js",
+  "tags": ["metadata", "musicbrainz", "lookup"]
+}

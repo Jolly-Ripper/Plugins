@@ -1,0 +1,11 @@
+{
+  "id": "excaliburau-webhook-notify",
+  "name": "Webhook Notify",
+  "version": "1.0.0",
+  "description": "POSTs rip details to any webhook (n8n, Slack Incoming Webhooks, Zapier, Make). Set webhookUrl in the plugin settings.json. Use template \"slack\" for Slack-formatted payloads.",
+  "author": "ExcaliburAU",
+  "repository": "https://github.com/Jolly-Ripper/Plugins",
+  "homepage": "https://github.com/Jolly-Ripper/Plugins/tree/main/sources/excaliburau-webhook-notify",
+  "downloadUrl": "https://raw.githubusercontent.com/Jolly-Ripper/Plugins/main/sources/excaliburau-webhook-notify/index.js",
+  "tags": ["webhook", "notify", "automation"]
+}
